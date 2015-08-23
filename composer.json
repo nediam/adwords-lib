@@ -1,0 +1,23 @@
+{
+    "name": "nediam/adwords-lib",
+    "description": "Google Ads APIs Client Library for PHP (AdWords, Adx, and DFP)",
+    "minimum-stability": "dev",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "nediam"
+        },
+        {
+            "name": "Vincent Tsao",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Google\\": "src/Google"
+        }
+    },
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
