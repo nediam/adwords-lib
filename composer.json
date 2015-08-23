@@ -1,6 +1,7 @@
 {
     "name": "nediam/adwords-lib",
     "description": "Google Ads APIs Client Library for PHP (AdWords, Adx, and DFP)",
+    "minimum-stability": "stable",
     "license": "Apache-2.0",
     "authors": [
         {
