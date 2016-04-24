@@ -21,7 +21,7 @@ class Predicate
      */
     public $field;
     /**
-     * @var tnsPredicateOperator
+     * @var PredicateOperator
      */
     public $operator;
     /**

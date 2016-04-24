@@ -29,7 +29,7 @@ class ReportDefinition
      */
     public $reportName;
     /**
-     * @var tnsReportDefinitionReportType
+     * @var ReportDefinitionReportType
      */
     public $reportType;
     /**
@@ -37,11 +37,11 @@ class ReportDefinition
      */
     public $hasAttachment;
     /**
-     * @var tnsReportDefinitionDateRangeType
+     * @var ReportDefinitionDateRangeType
      */
     public $dateRangeType;
     /**
-     * @var tnsDownloadFormat
+     * @var DownloadFormat
      */
     public $downloadFormat;
     /**

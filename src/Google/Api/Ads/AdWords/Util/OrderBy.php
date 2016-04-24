@@ -21,7 +21,7 @@ class OrderBy
      */
     public $field;
     /**
-     * @var tnsSortOrder
+     * @var SortOrder
      */
     public $sortOrder;
     /**
